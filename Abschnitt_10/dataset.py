@@ -4,7 +4,7 @@ import numpy as np
 np.random.seed(42)
 
 
-def generate_dataset(num_class1: int = 500, num_class2: int = 500) -> Tuple[np.ndarray, np.ndarray]:
+def generate_dataset(num_class1: int = 50, num_class2: int = 50) -> Tuple[np.ndarray, np.ndarray]:
     cov1 = np.array([[1, 0], [0, 2]])
     mean1 = np.array([0, 0])
     cov2 = np.array([[2, 0], [0, 1]])
