@@ -1,2 +1,5 @@
-# Udemy_Machine_Learning
-Booste dein Data Science Wissen mit dem Maschinellen Lernen. Inkl. Künstliche Intelligenz und Deep Learning Einführung.
+# Machine Learning Komplettkurs mit Python
+
+This my code to the course `Machine Learning Komplettkurs mit Python` held by [Jan Schaffraneck](https://github.com/franneck94)
+[Github Repository](https://github.com/franneck94/UdemyML)
+[Udemy Course](www.udemy.com/course/machine-learning-grundlagen-mit-python-inkl-ai-einfuhrung)
